@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60351489390",
+    "project_id": "weatherappyuliana",
+    "storage_bucket": "weatherappyuliana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60351489390:android:25d22ec27a2c646a458d7f",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60351489390-an2qlu61g63qcbst69m8ut38jt434qna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1dUq_ZDf-ug4vhvDUWj9rBLoPRPYPAnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60351489390-an2qlu61g63qcbst69m8ut38jt434qna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
